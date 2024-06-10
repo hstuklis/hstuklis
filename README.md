@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @hstuklis
-- 👀 [hstuklis.github.io/](hstuklis.github.io/)
+- 👀 [https://hstuklis.github.io/](hstuklis.github.io/)
