@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @HStuklis
+- 👋 Hi, I’m @hstuklis
 - 👀 watch this space :)
