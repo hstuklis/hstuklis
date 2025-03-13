@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @hstuklis
 - 👀 [https://hstuklis.github.io/](https://hstuklis.github.io/)
-- 🤝 [https://www.linkedin.com/in/henry-stuklis/](LinkedIn)
+- 🤝 [LinkedIn](https://www.linkedin.com/in/henry-stuklis/)
