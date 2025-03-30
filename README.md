@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @hstuklis
-- 👀 Checkout 🎯[hhp](https://hstuklis.github.io/) (henry's homepoint)
+- 👀 Checkout henry's homepoint 🎯[hhp](https://hstuklis.github.io/)
 - 💼 I'm on [LinkedIn](https://www.linkedin.com/in/henry-stuklis/)
