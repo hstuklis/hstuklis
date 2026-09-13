@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @hstuklis
 - 💾 I'm a data & software dev
-- 🎯 Check out my [website](https://hstuklis.github.io)
 - 💼 I'm also on [LinkedIn](https://www.linkedin.com/in/henry-stuklis/)
